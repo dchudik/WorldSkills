@@ -2,26 +2,22 @@ function autocomplete(from, to){
     switch(from){
         case 1:me.one_Pos1();
         	break;
-            /*
-        case 2:one_Pos2();
+        case 2:me.one_Pos2();
             break;
-        case 3:one_Pos3();
+        case 3:me.one_Pos3();
             break;
-        case 4:one_Pos4();
+        case 4:me.one_Pos4();
             break;
-            */
     }
     switch(to){
         case 1: me.two_Pos1();
         	break;
-            /*
-        case 2:two_Pos2();
+        case 2:me.two_Pos2();
             break;
-        case 3:two_Pos3();
+        case 3:me.two_Pos3();
             break;
-        case 4:two_Pos4();
+        case 4:me.two_Pos4();
             break;
-            */
     }
 };
 
