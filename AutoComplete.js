@@ -30,11 +30,10 @@ for (var i=0;i<me.TableWords.rows.length;i++)
 		}
 	};
     
-var array = "11111111";
 for(var k=0;k<array.length;k=k+2){
     for(var f=1;f<array.length;f=f+2){
 	autocomplete(k, f);
 }
-}
+};
 }
 
