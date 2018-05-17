@@ -21,19 +21,19 @@ function autocomplete(from, to){
     }
 };
 
-while(state == "autocomplete"){
-for (var i=0;i<me.TableWords.rows.length;i++)
+while(state == true){
+for (var i=0;i<me.Codes.rows.length;i++)
 	{
-		if (me.Code == me.TableWords.rows[i].Code)
+		if (me.Code ==me.Codes.rows[i].Code)
 		{
-			array = me.TableWords.rows[i].Array;
+			array = me.Codes.rows[i].Array;
 		}
-	};
+	}
     
 for(var k=0;k<array.length;k=k+2){
     for(var f=1;f<array.length;f=f+2){
 	autocomplete(k, f);
 }
-};
+}
 }
 
