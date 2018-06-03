@@ -1,0 +1,37 @@
+me.Motors=DataShapes["Motors_t3_guap2018"].CreateValues();
+me.Motors.AddRow({
+    Number:1,
+    Position:me.Motor1,
+    Load:me.Load1,
+    Temp:me.Temp1,
+});
+me.Motors.AddRow({
+    Number:2,
+    Position:me.Motor2,
+    Load:me.Load2,
+    Temp:me.Temp2,
+});
+me.Motors.AddRow({
+    Number:3,
+    Position:me.Motor3,
+    Load:me.Load3,
+    Temp:me.Temp3,
+});
+me.Motors.AddRow({
+    Number:4,
+    Position:me.Motor4,
+    Load:me.Load4,
+    Temp:me.Temp4,
+});
+me.Motors.AddRow({
+    Number:5,
+    Position:me.Motor5,
+    Load:me.Load5,
+    Temp:me.Temp5,
+});
+me.Motors.AddRow({
+    Number:6,
+    Position:me.Motor6,
+    Load:me.Load6,
+    Temp:me.Temp6,
+});
