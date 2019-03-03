@@ -1,0 +1,10 @@
+﻿88db6cc3-e893-4e5e-a3f0-e5eb75399835;Proba_2_2_Trolltram;Connеct
+345cf706-dd53-4461-88f8-a7e994625a2d;pult_Ivan;Connect
+ff335210-3bd4-40b2-97c7-c579fad7c9c2;Pult_AlexO;Connect
+3ca078e7-6795-49b4-93bd-cf441fb5889e;controller_maryulybina;Conect
+c9c5b296-4c3f-4d4b-82c1-2f0a66393b00;Remote_Control_Jubafa;Control
+cc7c3819-9fe3-4ebe-a3a2-19cfa2b63e63;Pult_ErmosDen;inoutstate
+7e059571-d16e-4565-8dc0-c28838b4b606;Control_kiryavolk;Connect
+d1e021db-2bc2-48d9-b107-67b3eb58a5e3;Controller_HDD;Connect
+31f8b565-6f0f-4024-b4ac-53341925bd0c;controller_Vera_Kashina;Connect
+fd75443b-dd5f-4176-a5af-cf0fc0a02297;ControlUnit_chudik2001;Connect
